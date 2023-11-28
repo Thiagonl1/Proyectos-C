@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1699644991 source:c:\users\alumno\documents\proyecto_programacion_ii\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"lib.h"
+
+1699644602 c:\users\alumno\documents\proyecto_programacion_ii\lib.h
+
+1699645071 source:c:\users\alumno\documents\proyecto_programacion_ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"lib.h"
+
